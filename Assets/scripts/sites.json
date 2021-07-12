@@ -1,0 +1,26 @@
+{
+	"sites": [
+		{"index": 0, "name": "Patronato", "longit": 38.767265 , "lati": -0.611859, "descripcion": "Lugar donde normalmente realizamos las sesiones"},
+		{"index": 1, "name": "Monestir", "longit": 38.766873, "lati": -0.611580, "descripcion": "Su construccion fue por orden de Mosen Melchor Hierro"},
+		{"index": 2, "name": "Plaça Sant Tomas", "longit": 38.766884, "lati": -0.610404, "descripcion": ""},
+		{"index": 3, "name": "Llavador", "longit": 38.766839, "lati": -0.609625, "descripcion": "Sitio donde se suele lavar la ropa"},
+		{"index": 4, "name": "Mare de deu del Desemparats", "longit": 38.766824, "lati": -0.609622, "descripcion": ""},
+		{"index": 5, "name": "Torre dels portuguesos", "longit": 38.766780, "lati": -0.609457, "descripcion": ""},
+		{"index": 6, "name": "L'Aljub", "longit": 38.766807, "lati": -0.609135, "descripcion": "Fuente discreta que se confunde con una hornacina santoral "},
+		{"index": 7, "name": "Mirador pont", "longit": 38.767275, "lati": -0.608812, "descripcion": ""},
+		{"index": 8, "name": "Carrer del Batle", "longit": 38.767529, "lati": -0.608684, "descripcion": ""},
+		{"index": 9, "name": "Placeta de la presso", "longit": 38.767727, "lati": -0.608685, "descripcion": "Lugar donde Sant Blai fue hecho patron"},
+		{"index": 10, "name": "L'Emboç", "longit": 38.767179, "lati": -0.609382, "descripcion": ""},
+		{"index": 11, "name": "Placeta lleó Ibèric", "longit": 38.767524, "lati": -0.609723, "descripcion": "Plaza que tiene el nombre de una pieza arqueologica encontrada en los terrenos del pueblo"},
+		{"index": 12, "name": "El tou", "longit": 38.768198, "lati": -0.609283, "descripcion": ""},
+		{"index": 13, "name": "La calça", "longit": 38.768436, "lati": -0.608956, "descripcion": ""},
+		{"index": 14, "name": "Parque cantereria", "longit": 38.768499, "lati": -0.608692, "descripcion": ""},
+		{"index": 15, "name": "Plaça cantereria", "longit": 38.768446, "lati": -0.608474, "descripcion": ""},
+		{"index": 16, "name": "Parque nou", "longit": 38.768514, "lati":-0.607911 , "descripcion": ""},
+		{"index": 17, "name": "Ermita mare de deu dels Desemparats", "longit": 38.768306, "lati": -0.607944, "descripcion": ""},
+		{"index": 18, "name": "Portal", "longit": 38.768306, "lati": -0.607944, "descripcion": ""},
+		{"index": 19, "name": "Mirador", "longit": 38.768885, "lati": -0.608774, "descripcion": "Sitio desde el cual podemos ver el Santo Cristo"},
+		{"index": 20, "name": "Iglesia", "longit": 38.767582, "lati": -0.609508, "descripcion": "Esta hecha en honor de Nuestra Señora de la Asuncion"},
+		{"index": 21, "name": "Pont", "longit": 38.767416, "lati": -0.606828, "descripcion": "Lugar de acceso al pueblo mas antiguo"}
+	]
+}

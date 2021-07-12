@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="portuguesos" size="6.000000 4.500560" />
+    <ImageTarget name="aljub" size="6.000000 8.014493" />
+    <ImageTarget name="batle" size="6.000000 8.020566" />
+    <ImageTarget name="calcada" size="6.000000 4.488461" />
+    <ImageTarget name="desemparats" size="6.000000 4.499459" />
+    <ImageTarget name="emboc" size="6.000000 4.488000" />
+    <ImageTarget name="ermita" size="6.000000 8.019697" />
+    <ImageTarget name="iglesia" size="6.000000 8.020566" />
+    <ImageTarget name="llavador" size="6.000000 4.488565" />
+    <ImageTarget name="lleo" size="6.000000 4.488000" />
+    <ImageTarget name="mcovetes" size="6.000000 8.019441" />
+    <ImageTarget name="mpont" size="6.000000 8.019094" />
+    <ImageTarget name="pacantereria" size="6.000000 8.019441" />
+    <ImageTarget name="parc" size="6.000000 4.488000" />
+    <ImageTarget name="plcantereria" size="6.000000 4.488000" />
+    <ImageTarget name="pont" size="6.000000 8.020566" />
+    <ImageTarget name="portal" size="6.000000 8.000000" />
+    <ImageTarget name="presso" size="6.000000 8.019441" />
+    <ImageTarget name="tou" size="6.000000 4.488947" />
+    <ImageTarget name="tomas" size="6.000000 8.020050" />
+    <ImageTarget name="monestir" size="6.000000 4.488750" />
+    <ImageTarget name="patronato" size="6.000000 8.019481" />
+  </Tracking>
+</QCARConfig>

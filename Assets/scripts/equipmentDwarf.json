@@ -1,0 +1,12 @@
+{
+	"statusEquipment": [
+		{"part": "Helmet", "adquired": false},
+		{"part": "Faldar", "adquired": false},
+		{"part": "Weapon", "adquired": false},
+		{"part": "Shield", "adquired": false},
+		{"part": "Cruise", "adquired": false},
+		{"part": "Greba", "adquired": false},
+		{"part": "Hombreras", "adquired": false},
+		{"part": "Avambrazo", "adquired": false}
+	]
+}
